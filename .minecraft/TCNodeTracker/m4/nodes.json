@@ -1,0 +1,1638 @@
+[
+  {
+    "aspect": {
+      "mortuus": 23,
+      "aqua": 22,
+      "ordo": 26
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 448,
+    "y": 66,
+    "z": 599,
+    "date": "2025-10-28T04:00:58.441234600Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 22,
+      "aqua": 11,
+      "perditio": 17
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 572,
+    "y": 63,
+    "z": 569,
+    "date": "2025-10-28T06:22:36.300481200Z"
+  },
+  {
+    "aspect": {
+      "electrum": 11,
+      "mortuus": 13,
+      "terra": 15,
+      "exanimis": 14,
+      "ordo": 10,
+      "tenebrae": 6
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 471,
+    "y": 70,
+    "z": 686,
+    "date": "2025-10-28T11:56:23.311891Z"
+  },
+  {
+    "aspect": {
+      "aqua": 14,
+      "terra": 37,
+      "ignis": 32,
+      "perditio": 27
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 620,
+    "y": 38,
+    "z": 714,
+    "date": "2025-11-30T15:26:05.651464100Z"
+  },
+  {
+    "aspect": {
+      "terra": 46,
+      "ignis": 34,
+      "ordo": 45
+    },
+    "type": "NORMAL",
+    "mod": "FADING",
+    "dim": 7,
+    "x": 674,
+    "y": 35,
+    "z": 659,
+    "date": "2025-11-30T15:26:42.604046900Z"
+  },
+  {
+    "aspect": {
+      "terra": 57,
+      "cognitio": 40
+    },
+    "type": "NORMAL",
+    "mod": "FADING",
+    "dim": 7,
+    "x": 744,
+    "y": 36,
+    "z": 553,
+    "date": "2025-11-30T15:33:08.050896800Z"
+  },
+  {
+    "aspect": {
+      "terra": 45,
+      "aer": 48
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 824,
+    "y": 33,
+    "z": 763,
+    "date": "2025-11-30T15:28:58.501844200Z"
+  },
+  {
+    "aspect": {
+      "terra": 45,
+      "ignis": 28
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 852,
+    "y": 25,
+    "z": 776,
+    "date": "2025-11-30T15:28:30.749625600Z"
+  },
+  {
+    "aspect": {
+      "aqua": 54
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 877,
+    "y": 31,
+    "z": 819,
+    "date": "2025-11-30T15:28:49.651242700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 40,
+      "ignis": 39,
+      "ordo": 37
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 844,
+    "y": 36,
+    "z": 738,
+    "date": "2025-11-30T15:29:05.901195300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 21,
+      "ordo": 32,
+      "perditio": 32
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 845,
+    "y": 34,
+    "z": 721,
+    "date": "2025-11-30T15:29:10.353035700Z"
+  },
+  {
+    "aspect": {
+      "ordo": 72
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 960,
+    "y": 36,
+    "z": 712,
+    "date": "2025-11-30T15:30:26.051150600Z"
+  },
+  {
+    "aspect": {
+      "aqua": 23,
+      "ordo": 25,
+      "perditio": 29
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 897,
+    "y": 37,
+    "z": 575,
+    "date": "2025-11-30T15:31:18.300092600Z"
+  },
+  {
+    "aspect": {
+      "ordo": 27,
+      "perditio": 53
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 892,
+    "y": 40,
+    "z": 511,
+    "date": "2025-11-30T15:31:28.650439200Z"
+  },
+  {
+    "aspect": {
+      "terra": 17,
+      "ordo": 18,
+      "praecantatio": 14,
+      "perditio": 18
+    },
+    "type": "NORMAL",
+    "mod": "PALE",
+    "dim": 7,
+    "x": 757,
+    "y": 24,
+    "z": 451,
+    "date": "2025-11-30T15:34:05.351470100Z"
+  },
+  {
+    "aspect": {
+      "aqua": 22,
+      "terra": 37,
+      "perditio": 28
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 514,
+    "y": 34,
+    "z": 297,
+    "date": "2025-11-30T15:35:52.850869700Z"
+  },
+  {
+    "aspect": {
+      "terra": 22,
+      "herba": 19,
+      "aer": 15
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 453,
+    "y": 13,
+    "z": 174,
+    "date": "2025-11-30T15:36:49.603075900Z"
+  },
+  {
+    "aspect": {
+      "victus": 30,
+      "ordo": 14,
+      "herba": 27,
+      "aer": 13
+    },
+    "type": "PURE",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 570,
+    "y": 38,
+    "z": 191,
+    "date": "2025-11-30T15:37:21.150671200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 42,
+      "terra": 58
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 639,
+    "y": 20,
+    "z": 102,
+    "date": "2025-11-30T15:38:00.703531800Z"
+  },
+  {
+    "aspect": {
+      "aqua": 50
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 700,
+    "y": 33,
+    "z": -103,
+    "date": "2025-11-30T15:44:33.932325400Z"
+  },
+  {
+    "aspect": {
+      "ordo": 53,
+      "aer": 47
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 598,
+    "y": 34,
+    "z": 10,
+    "date": "2025-11-30T15:48:45.581812Z"
+  },
+  {
+    "aspect": {
+      "ignis": 17,
+      "ordo": 20,
+      "perditio": 30
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 861,
+    "y": 32,
+    "z": -212,
+    "date": "2025-11-30T16:23:06.230772900Z"
+  },
+  {
+    "aspect": {
+      "ordo": 31,
+      "perditio": 28
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 899,
+    "y": 33,
+    "z": -282,
+    "date": "2025-11-30T16:23:49.580970500Z"
+  },
+  {
+    "aspect": {
+      "terra": 28,
+      "perditio": 61
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 812,
+    "y": 40,
+    "z": -208,
+    "date": "2025-11-30T16:35:55.068302800Z"
+  },
+  {
+    "aspect": {
+      "terra": 47,
+      "ignis": 22
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 577,
+    "y": 39,
+    "z": 97,
+    "date": "2025-11-30T16:48:23.118668300Z"
+  },
+  {
+    "aspect": {
+      "aqua": 30,
+      "terra": 34
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 560,
+    "y": 32,
+    "z": 135,
+    "date": "2025-11-30T16:48:28.520241600Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 18,
+      "terra": 8,
+      "perditio": 18,
+      "tenebrae": 13,
+      "herba": 23,
+      "aer": 10
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 597,
+    "y": 25,
+    "z": 310,
+    "date": "2025-11-30T17:00:14.115885200Z"
+  },
+  {
+    "aspect": {
+      "terra": 35,
+      "ordo": 83
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 525,
+    "y": 30,
+    "z": 754,
+    "date": "2025-11-30T17:02:01.519584900Z"
+  },
+  {
+    "aspect": {
+      "ordo": 91
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 778,
+    "y": 36,
+    "z": 807,
+    "date": "2025-11-30T17:15:35.572017600Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 17,
+      "terra": 13,
+      "ordo": 7,
+      "permutatio": 14
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": 0,
+    "x": 831,
+    "y": 22,
+    "z": 33,
+    "date": "2025-12-03T11:41:19.283167200Z"
+  },
+  {
+    "aspect": {
+      "ignis": 20,
+      "exanimis": 15,
+      "perditio": 26,
+      "aer": 30
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 629,
+    "y": 125,
+    "z": 229,
+    "date": "2025-12-03T12:52:44.030347700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 19,
+      "perditio": 33,
+      "aer": 25
+    },
+    "type": "NORMAL",
+    "mod": "FADING",
+    "dim": 0,
+    "x": -419,
+    "y": 90,
+    "z": -799,
+    "date": "2025-12-03T13:13:58.308517500Z"
+  },
+  {
+    "aspect": {
+      "terra": 32,
+      "ordo": 32
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": 0,
+    "x": -469,
+    "y": 106,
+    "z": -634,
+    "date": "2025-12-03T13:15:15.310041100Z"
+  },
+  {
+    "aspect": {
+      "terra": 14,
+      "perditio": 15,
+      "tenebrae": 17,
+      "aer": 6
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -459,
+    "y": 96,
+    "z": -396,
+    "date": "2025-12-03T13:16:20.659195Z"
+  },
+  {
+    "aspect": {
+      "aqua": 12,
+      "terra": 23,
+      "ordo": 2,
+      "fames": 13,
+      "perditio": 23,
+      "aer": 2
+    },
+    "type": "HUNGRY",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -440,
+    "y": 103,
+    "z": -405,
+    "date": "2025-12-03T13:17:32.809899100Z"
+  },
+  {
+    "aspect": {
+      "aqua": 26,
+      "perditio": 34
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -356,
+    "y": 100,
+    "z": -260,
+    "date": "2025-12-03T13:18:13.661049200Z"
+  },
+  {
+    "aspect": {
+      "perditio": 25,
+      "aer": 50
+    },
+    "type": "NORMAL",
+    "mod": "PALE",
+    "dim": 0,
+    "x": -351,
+    "y": 87,
+    "z": -226,
+    "date": "2025-12-03T13:18:21.960496500Z"
+  },
+  {
+    "aspect": {
+      "ordo": 84
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -79,
+    "y": 75,
+    "z": 513,
+    "date": "2025-12-03T13:33:30.310978700Z"
+  },
+  {
+    "aspect": {
+      "terra": 45,
+      "aer": 50
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 429,
+    "y": 34,
+    "z": 1358,
+    "date": "2025-12-04T17:02:25.106164300Z"
+  },
+  {
+    "aspect": {
+      "terra": 48,
+      "perditio": 55
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 156,
+    "y": 34,
+    "z": 1502,
+    "date": "2025-12-04T17:07:36.808523300Z"
+  },
+  {
+    "aspect": {
+      "perditio": 49
+    },
+    "type": "UNSTABLE",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 83,
+    "y": 34,
+    "z": 1055,
+    "date": "2025-12-04T17:08:31.006706600Z"
+  },
+  {
+    "aspect": {
+      "ordo": 101
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": -383,
+    "y": 36,
+    "z": 910,
+    "date": "2025-12-04T17:09:03.508429200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 37,
+      "ignis": 26
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 7,
+    "x": 415,
+    "y": 79,
+    "z": 252,
+    "date": "2025-12-04T18:15:30.206359300Z"
+  },
+  {
+    "aspect": {
+      "aqua": 34,
+      "aer": 52
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 183,
+    "y": 77,
+    "z": 20,
+    "date": "2025-12-04T18:23:24.669186900Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 5,
+      "terra": 15,
+      "exanimis": 6,
+      "perditio": 10,
+      "aer": 12
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 267,
+    "y": 93,
+    "z": -118,
+    "date": "2025-12-04T18:25:19.770292200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 12,
+      "ordo": 26,
+      "perditio": 19,
+      "tenebrae": 15,
+      "aer": 21
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 326,
+    "y": 64,
+    "z": 133,
+    "date": "2025-12-04T18:25:35.921708500Z"
+  },
+  {
+    "aspect": {
+      "ignis": 17,
+      "exanimis": 10,
+      "perditio": 13
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 431,
+    "y": 67,
+    "z": 559,
+    "date": "2025-12-10T17:12:06.022985200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 14,
+      "terra": 23,
+      "ordo": 19
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 822,
+    "y": 68,
+    "z": 651,
+    "date": "2025-12-04T18:52:36.020205300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 19,
+      "ordo": 38
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 666,
+    "y": 73,
+    "z": 822,
+    "date": "2025-12-05T05:17:56.090047800Z"
+  },
+  {
+    "aspect": {
+      "aqua": 57,
+      "terra": 22
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 736,
+    "y": 63,
+    "z": 172,
+    "date": "2025-12-06T13:49:15.364710600Z"
+  },
+  {
+    "aspect": {
+      "ordo": 32,
+      "aer": 20
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 105,
+    "y": 70,
+    "z": -545,
+    "date": "2025-12-06T13:51:17.264967100Z"
+  },
+  {
+    "aspect": {
+      "perditio": 33,
+      "aer": 22
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -128,
+    "y": 79,
+    "z": -447,
+    "date": "2025-12-06T13:53:16.610784600Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 10,
+      "exanimis": 15,
+      "perditio": 17,
+      "aer": 17
+    },
+    "type": "DARK",
+    "mod": "BRIGHT",
+    "dim": 0,
+    "x": -96,
+    "y": 88,
+    "z": -702,
+    "date": "2025-12-06T13:54:45.913168500Z"
+  },
+  {
+    "aspect": {
+      "aer": 62
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 19,
+    "y": 68,
+    "z": -841,
+    "date": "2025-12-06T13:56:44.061970500Z"
+  },
+  {
+    "aspect": {
+      "aqua": 26,
+      "terra": 26,
+      "ordo": 27
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 22,
+    "y": 87,
+    "z": -726,
+    "date": "2025-12-06T13:56:52.564496900Z"
+  },
+  {
+    "aspect": {
+      "aqua": 23,
+      "gelum": 29
+    },
+    "type": "UNSTABLE",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 100,
+    "y": 64,
+    "z": 76,
+    "date": "2025-12-06T13:58:30.913310200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 32,
+      "perditio": 21,
+      "aer": 41
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 386,
+    "y": 66,
+    "z": 143,
+    "date": "2025-12-06T13:59:19.764092Z"
+  },
+  {
+    "aspect": {
+      "ignis": 54
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": 0,
+    "x": 1293,
+    "y": 71,
+    "z": 8,
+    "date": "2025-12-06T14:06:01.913208600Z"
+  },
+  {
+    "aspect": {
+      "victus": 24,
+      "ordo": 32,
+      "perditio": 24
+    },
+    "type": "PURE",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1113,
+    "y": 122,
+    "z": -1325,
+    "date": "2025-12-06T14:09:03.962019300Z"
+  },
+  {
+    "aspect": {
+      "aer": 55
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 648,
+    "y": 65,
+    "z": -551,
+    "date": "2025-12-06T14:11:05.711833900Z"
+  },
+  {
+    "aspect": {
+      "terra": 28,
+      "ordo": 31,
+      "aer": 19
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 605,
+    "y": 65,
+    "z": -563,
+    "date": "2025-12-06T14:11:18.462892700Z"
+  },
+  {
+    "aspect": {
+      "ignis": 40,
+      "aer": 18
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -219,
+    "y": 64,
+    "z": 2944,
+    "date": "2025-12-07T16:13:52.581935Z"
+  },
+  {
+    "aspect": {
+      "aqua": 68
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -205,
+    "y": 64,
+    "z": 3031,
+    "date": "2025-12-07T16:15:01.231506800Z"
+  },
+  {
+    "aspect": {
+      "aqua": 37,
+      "herba": 38
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -56,
+    "y": 74,
+    "z": 2096,
+    "date": "2025-12-07T16:16:31.130342300Z"
+  },
+  {
+    "aspect": {
+      "aqua": 37,
+      "ordo": 45
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 489,
+    "y": 64,
+    "z": 1495,
+    "date": "2025-12-07T16:17:27.979035100Z"
+  },
+  {
+    "aspect": {
+      "aqua": 20,
+      "ordo": 20,
+      "perditio": 9
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 507,
+    "y": 63,
+    "z": 1406,
+    "date": "2025-12-07T16:17:44.281493100Z"
+  },
+  {
+    "aspect": {
+      "aqua": 30,
+      "terra": 35
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 429,
+    "y": 65,
+    "z": 1293,
+    "date": "2025-12-07T16:17:56.733231400Z"
+  },
+  {
+    "aspect": {
+      "ordo": 57
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 556,
+    "y": 74,
+    "z": 934,
+    "date": "2025-12-09T13:41:48.749198700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 11,
+      "mortuus": 11,
+      "terra": 14,
+      "exanimis": 6,
+      "ordo": 8,
+      "tenebrae": 11
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 382,
+    "y": 70,
+    "z": 794,
+    "date": "2025-12-09T13:42:15.149157300Z"
+  },
+  {
+    "aspect": {
+      "perditio": 85
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 384,
+    "y": 70,
+    "z": 811,
+    "date": "2025-12-09T13:42:27.646169800Z"
+  },
+  {
+    "aspect": {
+      "terra": 45,
+      "aer": 33
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 657,
+    "y": 71,
+    "z": 927,
+    "date": "2025-12-09T13:57:29.248575400Z"
+  },
+  {
+    "aspect": {
+      "aqua": 41,
+      "perditio": 52
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 514,
+    "y": 78,
+    "z": 297,
+    "date": "2025-12-09T14:22:41.647066700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 29,
+      "ordo": 13,
+      "aer": 32
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 474,
+    "y": 96,
+    "z": 205,
+    "date": "2025-12-09T14:23:48.647583Z"
+  },
+  {
+    "aspect": {
+      "aqua": 92
+    },
+    "type": "NORMAL",
+    "mod": "FADING",
+    "dim": 0,
+    "x": 183,
+    "y": 66,
+    "z": 174,
+    "date": "2025-12-09T16:25:02.440237Z"
+  },
+  {
+    "aspect": {
+      "aer": 77
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 435,
+    "y": 89,
+    "z": 388,
+    "date": "2025-12-09T16:25:25.294918200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 13,
+      "terra": 9,
+      "ordo": 15,
+      "perditio": 16,
+      "aer": 17
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 381,
+    "y": 31,
+    "z": 685,
+    "date": "2025-12-10T17:11:08.472908600Z"
+  },
+  {
+    "aspect": {
+      "ignis": 20,
+      "ordo": 30
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 391,
+    "y": 71,
+    "z": 497,
+    "date": "2025-12-10T17:12:39.271745300Z"
+  },
+  {
+    "aspect": {
+      "ordo": 34,
+      "aer": 25
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -186,
+    "y": 63,
+    "z": 2076,
+    "date": "2025-12-10T17:38:46.673118300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 38,
+      "ordo": 57
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1387,
+    "y": 64,
+    "z": 904,
+    "date": "2025-12-10T17:40:49.822607200Z"
+  },
+  {
+    "aspect": {
+      "ordo": 46,
+      "aer": 21
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1398,
+    "y": 65,
+    "z": 894,
+    "date": "2025-12-10T17:40:52.221395100Z"
+  },
+  {
+    "aspect": {
+      "aqua": 88
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1829,
+    "y": 67,
+    "z": 536,
+    "date": "2025-12-10T17:43:23.920530600Z"
+  },
+  {
+    "aspect": {
+      "victus": 22,
+      "terra": 16,
+      "herba": 24
+    },
+    "type": "PURE",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1828,
+    "y": 72,
+    "z": 417,
+    "date": "2025-12-10T17:43:39.721426Z"
+  },
+  {
+    "aspect": {
+      "aqua": 18,
+      "terra": 11,
+      "exanimis": 11,
+      "tenebrae": 10
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1820,
+    "y": 66,
+    "z": 353,
+    "date": "2025-12-10T17:44:18.121207100Z"
+  },
+  {
+    "aspect": {
+      "ordo": 77
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 1094,
+    "y": 64,
+    "z": 670,
+    "date": "2025-12-10T17:46:20.618463Z"
+  },
+  {
+    "aspect": {
+      "terra": 63
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 376,
+    "y": 78,
+    "z": 568,
+    "date": "2025-12-10T18:13:49.968617200Z"
+  },
+  {
+    "aspect": {
+      "aqua": 18,
+      "terra": 18,
+      "aer": 41
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -122,
+    "y": 70,
+    "z": -235,
+    "date": "2025-12-10T19:37:07.861520600Z"
+  },
+  {
+    "aspect": {
+      "ordo": 10,
+      "perditio": 18,
+      "aer": 17
+    },
+    "type": "NORMAL",
+    "mod": "FADING",
+    "dim": 0,
+    "x": -121,
+    "y": 66,
+    "z": -169,
+    "date": "2025-12-10T19:38:30.263576900Z"
+  },
+  {
+    "aspect": {
+      "ordo": 45,
+      "herba": 42
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -910,
+    "y": 92,
+    "z": -641,
+    "date": "2025-12-10T19:41:46.165564100Z"
+  },
+  {
+    "aspect": {
+      "ordo": 67
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -1025,
+    "y": 68,
+    "z": -498,
+    "date": "2025-12-10T19:42:14.912994800Z"
+  },
+  {
+    "aspect": {
+      "terra": 43,
+      "ordo": 31
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -1241,
+    "y": 91,
+    "z": -635,
+    "date": "2025-12-10T19:44:28.314376200Z"
+  },
+  {
+    "aspect": {
+      "ordo": 45,
+      "aer": 51
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -1287,
+    "y": 91,
+    "z": -334,
+    "date": "2025-12-10T19:46:48.263738400Z"
+  },
+  {
+    "aspect": {
+      "aqua": 31,
+      "aer": 35
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -1306,
+    "y": 89,
+    "z": -319,
+    "date": "2025-12-10T19:46:52.611741100Z"
+  },
+  {
+    "aspect": {
+      "ordo": 8,
+      "perditio": 19,
+      "aer": 16
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 700,
+    "y": 69,
+    "z": 533,
+    "date": "2025-12-11T15:46:05.299879900Z"
+  },
+  {
+    "aspect": {
+      "perditio": 85
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": -1,
+    "x": 272,
+    "y": 35,
+    "z": 10,
+    "date": "2025-12-14T19:28:05.948645300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 51,
+      "ordo": 42
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": -1,
+    "x": 426,
+    "y": 53,
+    "z": -4,
+    "date": "2025-12-14T19:28:24.651599600Z"
+  },
+  {
+    "aspect": {
+      "aqua": 20,
+      "ignis": 22,
+      "terra": 23
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": -1,
+    "x": 415,
+    "y": 50,
+    "z": 6,
+    "date": "2025-12-14T19:28:30.898463400Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 16,
+      "ignis": 52,
+      "infernus": 22,
+      "tenebrae": 19
+    },
+    "type": "DARK",
+    "mod": "BRIGHT",
+    "dim": -1,
+    "x": 245,
+    "y": 47,
+    "z": -185,
+    "date": "2025-12-14T19:43:43.346397100Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 18,
+      "ignis": 27,
+      "tenebrae": 21
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -412,
+    "y": 99,
+    "z": -474,
+    "date": "2025-12-16T18:24:39.057672800Z"
+  },
+  {
+    "aspect": {
+      "terra": 75
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": -375,
+    "y": 95,
+    "z": -508,
+    "date": "2025-12-16T18:25:13.105719300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 37,
+      "aer": 35
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 0,
+    "x": 282,
+    "y": 94,
+    "z": 213,
+    "date": "2025-12-16T18:31:13.355440200Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 9,
+      "ignis": 56,
+      "infernus": 26
+    },
+    "type": "DARK",
+    "mod": "BRIGHT",
+    "dim": -1,
+    "x": 180,
+    "y": 43,
+    "z": 134,
+    "date": "2025-12-17T22:33:13.446181400Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 14,
+      "ordo": 18,
+      "aer": 9
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 637,
+    "y": 63,
+    "z": 583,
+    "date": "2025-12-19T21:14:50.813148900Z"
+  },
+  {
+    "aspect": {
+      "aqua": 17,
+      "perditio": 21
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 490,
+    "y": 67,
+    "z": 576,
+    "date": "2025-12-19T21:26:15.760467900Z"
+  },
+  {
+    "aspect": {
+      "perditio": 35
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 400,
+    "y": 58,
+    "z": 606,
+    "date": "2025-12-19T21:15:10.910268900Z"
+  },
+  {
+    "aspect": {
+      "perditio": 55
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 145,
+    "y": 61,
+    "z": 190,
+    "date": "2025-12-19T21:21:46.507645200Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 27,
+      "aqua": 26
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 153,
+    "y": 60,
+    "z": 174,
+    "date": "2025-12-19T21:21:49.759965500Z"
+  },
+  {
+    "aspect": {
+      "perditio": 24,
+      "aer": 16
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 674,
+    "y": 66,
+    "z": -4,
+    "date": "2025-12-19T21:22:27.008981600Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 43,
+      "terra": 20
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 704,
+    "y": 59,
+    "z": -19,
+    "date": "2025-12-19T21:22:30.410759900Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 39,
+      "ordo": 26
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 704,
+    "y": 59,
+    "z": 16,
+    "date": "2025-12-19T21:22:35.957195700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 18,
+      "ordo": 16,
+      "aer": 14
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 283,
+    "y": 72,
+    "z": 779,
+    "date": "2025-12-19T21:24:24.258497800Z"
+  },
+  {
+    "aspect": {
+      "aqua": 24,
+      "ordo": 37
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 37,
+    "y": 66,
+    "z": 6,
+    "date": "2025-12-19T21:25:04.658656100Z"
+  },
+  {
+    "aspect": {
+      "ordo": 42,
+      "perditio": 23
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": -155,
+    "y": 63,
+    "z": 752,
+    "date": "2025-12-19T21:31:20.961627900Z"
+  },
+  {
+    "aspect": {
+      "ordo": 58
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": -141,
+    "y": 62,
+    "z": 757,
+    "date": "2025-12-19T21:31:23.511911800Z"
+  },
+  {
+    "aspect": {
+      "terra": 32,
+      "ordo": 35
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 427,
+    "y": 58,
+    "z": 554,
+    "date": "2025-12-19T21:35:40.708229100Z"
+  },
+  {
+    "aspect": {
+      "perditio": 36
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 435,
+    "y": 59,
+    "z": 558,
+    "date": "2025-12-19T21:35:42.808720900Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 46
+    },
+    "type": "NORMAL",
+    "mod": "BRIGHT",
+    "dim": 28,
+    "x": 440,
+    "y": 59,
+    "z": 561,
+    "date": "2025-12-19T21:35:44.411096800Z"
+  },
+  {
+    "aspect": {
+      "aqua": 10,
+      "ignis": 17,
+      "perditio": 18
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 1009,
+    "y": 25,
+    "z": 985,
+    "date": "2025-12-19T22:06:57.488366Z"
+  },
+  {
+    "aspect": {
+      "ordo": 16,
+      "perditio": 33,
+      "aer": 13
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": -310,
+    "y": 25,
+    "z": 70,
+    "date": "2025-12-19T22:13:04.537154800Z"
+  },
+  {
+    "aspect": {
+      "mortuus": 30,
+      "exanimis": 31
+    },
+    "type": "DARK",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 398,
+    "y": 63,
+    "z": 381,
+    "date": "2025-12-22T07:58:24.859008Z"
+  },
+  {
+    "aspect": {
+      "ignis": 22,
+      "terra": 18,
+      "perditio": 19
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 284,
+    "y": 63,
+    "z": 251,
+    "date": "2025-12-23T19:41:09.030431300Z"
+  },
+  {
+    "aspect": {
+      "ignis": 15,
+      "ordo": 18,
+      "perditio": 14,
+      "aer": 9
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": 28,
+    "x": 652,
+    "y": 62,
+    "z": 978,
+    "date": "2025-12-23T19:43:03.178527700Z"
+  },
+  {
+    "aspect": {
+      "aqua": 22,
+      "spiritus": 24,
+      "aer": 33
+    },
+    "type": "NORMAL",
+    "mod": "BLANK",
+    "dim": -1,
+    "x": 32,
+    "y": 92,
+    "z": 65,
+    "date": "2025-12-24T20:45:38.000616500Z"
+  }
+]
