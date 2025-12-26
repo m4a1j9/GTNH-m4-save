@@ -7,7 +7,7 @@
 /.minecraft/*
 
 
-/.minecraft/serverutilities
+!/.minecraft/serverutilities
 
 !/.minecraft/saves
 /.minecraft/saves/*
