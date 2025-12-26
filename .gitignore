@@ -21,3 +21,9 @@
 !/.minecraft/TCNodeTracker
 
 !/.minecraft/schematics
+
+!/.minecraft/config
+/.minecraft/config/*
+!/.minecraft/config/dsurround
+
+!/.minecraft/config/shaders.properties
