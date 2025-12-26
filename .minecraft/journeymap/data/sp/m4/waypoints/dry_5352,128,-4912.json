@@ -1,0 +1,17 @@
+{
+  "id": "dry_5352,128,-4912",
+  "name": "dry",
+  "icon": "waypoint-normal.png",
+  "x": 5352,
+  "y": 128,
+  "z": -4912,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

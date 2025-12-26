@@ -1,0 +1,17 @@
+{
+  "id": "A lot of cactus_2783,83,301",
+  "name": "A lot of cactus",
+  "icon": "waypoint-normal.png",
+  "x": 2783,
+  "y": 83,
+  "z": 301,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

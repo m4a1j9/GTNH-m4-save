@@ -1,0 +1,17 @@
+{
+  "id": "wtf is this (vacum sand)_-442,100,-407",
+  "name": "wtf is this (vacum sand)",
+  "icon": "waypoint-normal.png",
+  "x": -442,
+  "y": 100,
+  "z": -407,
+  "r": 85,
+  "g": 127,
+  "b": 168,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

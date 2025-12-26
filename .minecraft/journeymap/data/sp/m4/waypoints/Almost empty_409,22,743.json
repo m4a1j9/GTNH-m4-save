@@ -1,0 +1,17 @@
+{
+  "id": "Almost empty_409,22,743",
+  "name": "Almost empty",
+  "icon": "waypoint-normal.png",
+  "x": 409,
+  "y": 22,
+  "z": 743,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cleared_766,110,782",
+  "name": "cleared",
+  "icon": "waypoint-normal.png",
+  "x": 766,
+  "y": 110,
+  "z": 782,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

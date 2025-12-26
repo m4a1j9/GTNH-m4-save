@@ -13,3 +13,5 @@
 /.minecraft/saves/*
 
 !/.minecraft/saves/m4
+
+!/.minecraft/journeymap

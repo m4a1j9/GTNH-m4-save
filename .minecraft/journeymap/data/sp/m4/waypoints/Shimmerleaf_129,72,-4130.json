@@ -1,0 +1,17 @@
+{
+  "id": "Shimmerleaf_129,72,-4130",
+  "name": "Shimmerleaf",
+  "icon": "waypoint-normal.png",
+  "x": 129,
+  "y": 72,
+  "z": -4130,
+  "r": 50,
+  "g": 100,
+  "b": 77,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

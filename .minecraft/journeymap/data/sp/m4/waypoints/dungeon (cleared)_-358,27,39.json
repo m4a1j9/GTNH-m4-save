@@ -1,0 +1,17 @@
+{
+  "id": "dungeon (cleared)_-358,27,39",
+  "name": "dungeon (cleared)",
+  "icon": "waypoint-normal.png",
+  "x": -358,
+  "y": 27,
+  "z": 39,
+  "r": 254,
+  "g": 0,
+  "b": 24,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    28
+  ]
+}

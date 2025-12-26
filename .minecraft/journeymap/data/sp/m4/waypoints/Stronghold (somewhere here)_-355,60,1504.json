@@ -1,0 +1,17 @@
+{
+  "id": "Stronghold (somewhere here)_-355,60,1504",
+  "name": "Stronghold (somewhere here)",
+  "icon": "waypoint-normal.png",
+  "x": -355,
+  "y": 60,
+  "z": 1504,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

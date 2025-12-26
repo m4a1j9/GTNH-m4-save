@@ -1,0 +1,17 @@
+{
+  "id": "BBC (huge oil)_1107,66,1417",
+  "name": "BBC (huge oil)",
+  "icon": "waypoint-normal.png",
+  "x": 1107,
+  "y": 66,
+  "z": 1417,
+  "r": 85,
+  "g": 85,
+  "b": 85,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

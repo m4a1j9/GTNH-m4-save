@@ -1,0 +1,17 @@
+{
+  "id": "Ardite_112,44,1488",
+  "name": "Ardite",
+  "icon": "waypoint-normal.png",
+  "x": 112,
+  "y": 44,
+  "z": 1488,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

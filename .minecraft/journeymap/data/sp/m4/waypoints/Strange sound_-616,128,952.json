@@ -1,0 +1,17 @@
+{
+  "id": "Strange sound_-616,128,952",
+  "name": "Strange sound",
+  "icon": "waypoint-normal.png",
+  "x": -616,
+  "y": 128,
+  "z": 952,
+  "r": 61,
+  "g": 21,
+  "b": 133,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

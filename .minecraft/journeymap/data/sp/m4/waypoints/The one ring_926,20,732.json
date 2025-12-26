@@ -1,0 +1,17 @@
+{
+  "id": "The one ring_926,20,732",
+  "name": "The one ring",
+  "icon": "waypoint-normal.png",
+  "x": 926,
+  "y": 20,
+  "z": 732,
+  "r": 254,
+  "g": 254,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

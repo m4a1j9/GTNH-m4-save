@@ -1,0 +1,17 @@
+{
+  "id": "half empty_599,63,407",
+  "name": "half empty",
+  "icon": "waypoint-normal.png",
+  "x": 599,
+  "y": 63,
+  "z": 407,
+  "r": 254,
+  "g": 39,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

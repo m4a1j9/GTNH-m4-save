@@ -1,0 +1,17 @@
+{
+  "id": "ore???_456,72,506",
+  "name": "ore???",
+  "icon": "waypoint-normal.png",
+  "x": 456,
+  "y": 72,
+  "z": 506,
+  "r": 217,
+  "g": 190,
+  "b": 130,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
