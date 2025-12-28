@@ -251,3 +251,492 @@ CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimal
 [22:12:48] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [catwalks:cagedLadder_north_unlit_nobottom_tape:0] (Transparency,Error)
 [22:12:48] [Client thread/INFO] [ColorPalette] Color palette file generated with 19026 colors in 73ms for: C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\colorpalette.json
 [22:12:48] [Client thread/INFO] [ColorManager] Updated color palette file: C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\colorpalette.json
+[22:19:27] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[22:19:28] [Client thread/INFO] [WaypointStore] Loaded 44 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:19:28] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:19:28] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 7320MB total, 2475MB free 
+[22:19:28] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[22:19:29] [JM-task-5/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.CarpentersBlocks$CommonHandler for: 'BlockMD [CarpentersBlocks:blockCarpentersBlock:12] (SpecialHandling)'.
+[22:19:31] [JM-task-5/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [gregtech:gt.blockcasings5:16] (CustomBiomeColor)
+[22:19:31] [JM-task-5/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [gregtech:gt.blockcasings5:18] (CustomBiomeColor)
+[22:19:51] [JM-task-5/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.CarpentersBlocks$CommonHandler for: 'BlockMD [CarpentersBlocks:blockCarpentersBlock:2] (SpecialHandling)'.
+[22:20:06] [JM-task-5/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.CarpentersBlocks$CommonHandler for: 'BlockMD [CarpentersBlocks:blockCarpentersBlock:7] (SpecialHandling)'.
+[22:31:40] [JM-task-5/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:plants:11] (NoShadow,Plant,NoTopo)'.
+[22:31:43] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[22:31:44] [Client thread/INFO] [WaypointStore] Loaded 44 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:31:44] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:31:44] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1. Memory: 7744MB total, 1764MB free 
+[22:32:01] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:flowers:14] (NoShadow,Plant,NoTopo)'.
+[22:32:05] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:8] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:32:05] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:4] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:32:28] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:1] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:32:28] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:2] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:32:28] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:9] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:32:43] [JM-task-6/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.BiomesOPlenty for: 'BlockMD [BiomesOPlenty:ivy:6] (CustomBiomeColor,Foliage,OpenToSky,NoShadow,Transparency,Plant,NoTopo)'.
+[22:33:12] [Client thread/ERROR] [JMLogger] Can't get entityTexture for class biomesoplenty.common.entities.EntityPhantom via class biomesoplenty.client.render.entities.RenderPhantom (SUPPRESSED)
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[22:45:30] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[22:46:25] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1
+[22:46:25] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:46:25] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:46:25] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 9408MB total, 2755MB free 
+[22:57:17] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[22:57:17] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:57:17] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:57:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1. Memory: 9752MB total, 5462MB free 
+[22:57:21] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1
+[22:57:21] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:57:21] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:57:21] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 9752MB total, 2526MB free 
+[22:57:26] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[22:57:27] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:57:27] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:57:27] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7. Memory: 10280MB total, 3175MB free 
+[22:57:27] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[22:58:40] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7
+[22:58:40] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[22:58:40] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[22:58:40] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 10352MB total, 2711MB free 
+[22:58:40] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[23:03:50] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[23:03:50] [Client thread/INFO] [WaypointStore] Loaded 42 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[23:03:50] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[23:03:50] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7. Memory: 10352MB total, 5490MB free 
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[23:05:22] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[23:34:45] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7
+[23:34:45] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[23:34:45] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[23:34:45] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 10352MB total, 1718MB free 
+[23:47:51] [JM-task-40/INFO] [ModBlockDelegate] Registered IModBlockHandler journeymap.client.model.mod.CarpentersBlocks$CommonHandler for: 'BlockMD [CarpentersBlocks:blockCarpentersSlope:10] (SpecialHandling)'.
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[00:32:10] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[03:17:25] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[04:58:12] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[04:58:12] [Client thread/INFO] [WaypointStore] Loaded 45 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[04:58:12] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[04:58:12] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1. Memory: 11640MB total, 6334MB free 
+[04:58:12] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[05:07:44] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1
+[05:07:44] [Client thread/INFO] [WaypointStore] Loaded 45 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:07:44] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:07:44] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 11984MB total, 6788MB free 
+[05:07:44] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[05:08:56] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[05:10:37] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[05:10:38] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:10:38] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:10:38] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1. Memory: 11984MB total, 5307MB free 
+[05:10:57] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1
+[05:10:57] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:10:57] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:10:57] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 12248MB total, 3989MB free 
+[05:10:57] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[05:11:00] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[05:11:00] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:11:00] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:11:00] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7. Memory: 12248MB total, 1737MB free 
+[05:17:23] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7
+[05:17:25] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:17:25] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:17:25] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 12408MB total, 1043MB free 
+[05:17:32] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[05:17:33] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[05:17:33] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[05:17:33] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1. Memory: 12408MB total, 4207MB free 
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[05:18:58] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[08:23:00] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM-1
+[08:23:01] [Client thread/INFO] [WaypointStore] Loaded 43 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[08:23:01] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[08:23:01] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 12800MB total, 7103MB free 
+[09:54:04] [JM-task-112/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:reeds:1] (CustomBiomeColor)
+[09:54:04] [JM-task-112/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:reeds:2] (CustomBiomeColor)
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[10:03:37] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[11:05:34] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[11:31:00] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[12:42:33] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0
+[12:42:33] [Client thread/INFO] [WaypointStore] Loaded 48 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[12:42:33] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:42:33] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7. Memory: 12800MB total, 4916MB free 
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.7.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.0.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.-1.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.1.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.2.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.25.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.28.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.29.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.30.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.31.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.32.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.33.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.35.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.36.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.37.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.38.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.39.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.40.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.41.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.42.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.43.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.44.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.173.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.45.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.46.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.47.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.48.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.49.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.50.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.51.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.55.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.56.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.60.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.63.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.64.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.69.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.70.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.71.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.74.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.77.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.81.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.82.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.83.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.84.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.85.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.86.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.90.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.91.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.92.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.93.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.94.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.95.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.227.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.100.name
+[12:43:09] [Client thread/WARN] [Constants] Message key not found: jm.common.dimension.112.name
+[12:43:27] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM7
+[12:43:27] [Client thread/INFO] [WaypointStore] Loaded 47 waypoints from C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\waypoints
+[12:43:27] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[12:43:27] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0. Memory: 12800MB total, 3587MB free 
+[12:43:27] [Client thread/WARN] [TextureImpl] GL Error in TextureImpl after glTexImage2D: 1286
+[13:44:07] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\m4a1j9\AppData\Roaming\PrismLauncher\instances\GT_New_Horizons_2.8.4_Java_17-25\.minecraft\journeymap\data\sp\m4\DIM0

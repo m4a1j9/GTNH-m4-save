@@ -1,0 +1,17 @@
+{
+  "id": "Meteor empty_932,108,1620",
+  "name": "Meteor empty",
+  "icon": "waypoint-normal.png",
+  "x": 932,
+  "y": 108,
+  "z": 1620,
+  "r": 255,
+  "g": 0,
+  "b": 12,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
