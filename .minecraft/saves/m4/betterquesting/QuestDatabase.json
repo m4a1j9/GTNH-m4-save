@@ -12340,7 +12340,7 @@
 						},
 						"Air:4": 0,
 						"AttackTime:4": 0,
-						"InLove:4": 0,
+						"PersistenceRequired:4": 0,
 						"FallDistance:6": 0.0,
 						"id:8": "Pig",
 						"Motion:9": {
@@ -12348,7 +12348,7 @@
 							"1:4": 0,
 							"2:4": 0
 						},
-						"PersistenceRequired:4": 0,
+						"InLove:4": 0,
 						"HurtTime:4": 0,
 						"CanPickUpLoot:4": 0,
 						"Health:4": 10,
@@ -313272,7 +313272,7 @@
 						"Air:2": 300,
 						"AttackTime:2": 0,
 						"ForgeData:10": {},
-						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"FallDistance:5": 0.0,
 						"id:8": "TwilightForest.Wild Deer",
 						"Motion:9": {
@@ -313280,7 +313280,7 @@
 							"1:6": 0.0,
 							"2:6": 0.0
 						},
-						"PersistenceRequired:1": 0,
+						"InLove:3": 0,
 						"HurtTime:2": 0,
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
@@ -313501,7 +313501,7 @@
 						"Air:2": 300,
 						"AttackTime:2": 0,
 						"ForgeData:10": {},
-						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"FallDistance:5": 0.0,
 						"id:8": "TwilightForest.Wild Boar",
 						"Motion:9": {
@@ -313509,7 +313509,7 @@
 							"1:6": 0.0,
 							"2:6": 0.0
 						},
-						"PersistenceRequired:1": 0,
+						"InLove:3": 0,
 						"HurtTime:2": 0,
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
@@ -314185,7 +314185,7 @@
 						"Air:2": 300,
 						"AttackTime:2": 0,
 						"ForgeData:10": {},
-						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"FallDistance:5": 0.0,
 						"id:8": "TwilightForest.Glacier Penguin",
 						"Motion:9": {
@@ -314193,7 +314193,7 @@
 							"1:6": 0.0,
 							"2:6": 0.0
 						},
-						"PersistenceRequired:1": 0,
+						"InLove:3": 0,
 						"HurtTime:2": 0,
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
@@ -317931,7 +317931,7 @@
 						"Air:2": 300,
 						"AttackTime:2": 0,
 						"ForgeData:10": {},
-						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"FallDistance:5": 0.0,
 						"id:8": "Natura.Imp",
 						"Motion:9": {
@@ -317939,7 +317939,7 @@
 							"1:6": 0.0,
 							"2:6": 0.0
 						},
-						"PersistenceRequired:1": 0,
+						"InLove:3": 0,
 						"HurtTime:2": 0,
 						"CanPickUpLoot:1": 0,
 						"Health:2": 40,
