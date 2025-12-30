@@ -1,0 +1,17 @@
+{
+  "id": "meteor?_2610,51,-318",
+  "name": "meteor?",
+  "icon": "waypoint-normal.png",
+  "x": 2610,
+  "y": 51,
+  "z": -318,
+  "r": 5,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    1
+  ]
+}

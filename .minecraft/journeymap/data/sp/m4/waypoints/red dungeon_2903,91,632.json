@@ -1,0 +1,17 @@
+{
+  "id": "red dungeon_2903,91,632",
+  "name": "red dungeon",
+  "icon": "waypoint-normal.png",
+  "x": 2903,
+  "y": 91,
+  "z": 632,
+  "r": 5,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    1
+  ]
+}
