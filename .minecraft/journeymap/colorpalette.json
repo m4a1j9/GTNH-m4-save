@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.10 NoRadar for 1.7.10 on Tue Dec 30 03:46:54 QYZT 2025",
+  "generated": "Generated using JourneyMap 5.2.10 NoRadar for 1.7.10 on Wed Dec 31 20:31:12 QYZT 2025",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -29710,6 +29710,13 @@ var colorpalette={
     {
       "name": "Broken Dungeon Lamp",
       "uid": "lootgames:LootGamesDungeonLight",
+      "meta": 0,
+      "color": "#70784e",
+      "alpha": 0.4
+    },
+    {
+      "name": "Broken Dungeon Lamp",
+      "uid": "lootgames:LootGamesDungeonLight",
       "meta": 1,
       "color": "#404b41",
       "alpha": 0.4
@@ -40631,13 +40638,6 @@ var colorpalette={
       "uid": "lootgames:LootGamesDungeonWall",
       "meta": 2,
       "color": "#536253"
-    },
-    {
-      "name": "Dungeon Lamp",
-      "uid": "lootgames:LootGamesDungeonLight",
-      "meta": 0,
-      "color": "#70784e",
-      "alpha": 0.4
     },
     {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
@@ -72487,7 +72487,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quantum Ender Diviner)",
+      "name": "QED (Quasar Entanglement Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"

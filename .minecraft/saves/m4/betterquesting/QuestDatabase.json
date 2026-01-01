@@ -12363,8 +12363,8 @@
 						"CanPickUpLoot:4": 0,
 						"Health:4": 10,
 						"HurtTime:4": 0,
-						"PersistenceRequired:4": 0,
 						"InLove:4": 0,
+						"PersistenceRequired:4": 0,
 						"PortalCooldown:4": 0
 					},
 					"subtypes:1": 0,
@@ -313295,8 +313295,8 @@
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
 						"HurtTime:2": 0,
-						"PersistenceRequired:1": 0,
 						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"PortalCooldown:3": 0,
 						"oiltweak.inOil:1": 0
 					},
@@ -313524,8 +313524,8 @@
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
 						"HurtTime:2": 0,
-						"PersistenceRequired:1": 0,
 						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"PortalCooldown:3": 0,
 						"oiltweak.inOil:1": 0
 					},
@@ -314208,8 +314208,8 @@
 						"CanPickUpLoot:1": 0,
 						"Health:2": 10,
 						"HurtTime:2": 0,
-						"PersistenceRequired:1": 0,
 						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"PortalCooldown:3": 0,
 						"oiltweak.inOil:1": 0
 					},
@@ -317954,8 +317954,8 @@
 						"CanPickUpLoot:1": 0,
 						"Health:2": 40,
 						"HurtTime:2": 0,
-						"PersistenceRequired:1": 0,
 						"InLove:3": 0,
+						"PersistenceRequired:1": 0,
 						"PortalCooldown:3": 0,
 						"oiltweak.inOil:1": 0
 					},
