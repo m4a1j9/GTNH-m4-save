@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.2.10 NoRadar for 1.7.10 on Wed Dec 31 20:31:12 QYZT 2025",
+  "generated": "Generated using JourneyMap 5.2.10 NoRadar for 1.7.10 on Thu Jan 01 06:05:50 QYZT 2026",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -36891,14 +36891,32 @@ var colorpalette={
     {
       "name": "Cracked Dungeon Ceiling",
       "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 1,
+      "color": "#405040"
+    },
+    {
+      "name": "Cracked Dungeon Ceiling",
+      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 4,
       "color": "#263226"
     },
     {
       "name": "Cracked Dungeon Floor",
       "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 2,
+      "color": "#536253"
+    },
+    {
+      "name": "Cracked Dungeon Floor",
+      "uid": "lootgames:LootGamesDungeonWall",
       "meta": 5,
       "color": "#465446"
+    },
+    {
+      "name": "Cracked Dungeon Wall",
+      "uid": "lootgames:LootGamesDungeonWall",
+      "meta": 0,
+      "color": "#4d5b4d"
     },
     {
       "name": "Cracked Dungeon Wall",
@@ -40628,18 +40646,6 @@ var colorpalette={
       "color": "#91a36f"
     },
     {
-      "name": "Dungeon Ceiling",
-      "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 1,
-      "color": "#405040"
-    },
-    {
-      "name": "Dungeon Floor",
-      "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 2,
-      "color": "#536253"
-    },
-    {
       "name": "Dungeon Puzzle (Triggerable - Unlit)",
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 0,
@@ -40710,12 +40716,6 @@ var colorpalette={
       "uid": "HardcoreEnderExpansion:dungeon_puzzle",
       "meta": 15,
       "color": "#c07429"
-    },
-    {
-      "name": "Dungeon Wall",
-      "uid": "lootgames:LootGamesDungeonWall",
-      "meta": 0,
-      "color": "#4d5b4d"
     },
     {
       "name": "Durian",
@@ -72487,7 +72487,7 @@ var colorpalette={
       "color": "#6d6d6d"
     },
     {
-      "name": "QED (Quasar Entanglement Device)",
+      "name": "QED (Quantum Enrichment Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
