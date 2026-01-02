@@ -235,7 +235,7 @@ key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_key.craftpresence.config_keycode.name:0
-soundCategory_master:0.66225165
+soundCategory_master:0.75827813
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
