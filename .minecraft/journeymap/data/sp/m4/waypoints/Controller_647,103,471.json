@@ -1,0 +1,17 @@
+{
+  "id": "Controller_647,103,471",
+  "name": "Controller",
+  "icon": "waypoint-normal.png",
+  "x": 647,
+  "y": 103,
+  "z": 471,
+  "r": 242,
+  "g": 0,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

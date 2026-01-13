@@ -1,0 +1,17 @@
+{
+  "id": "miner_-816,121,-3496",
+  "name": "miner",
+  "icon": "waypoint-normal.png",
+  "x": -816,
+  "y": 121,
+  "z": -3496,
+  "r": 19,
+  "g": 254,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
