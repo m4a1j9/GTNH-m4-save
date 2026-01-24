@@ -1,7 +1,7 @@
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.5
-gamma:0.5
+gamma:0.01
 saturation:0.0
 renderDistance:16
 guiScale:3
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
-resourcePacks:[]
+resourcePacks:["Realistic Sky GT New Horizons.zip"]
 lastServer:
 lang:en_US
 chatVisibility:0
